@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "jshint": "^2.13.6"
+  },
+  "name": "nodejs_experience",
+  "version": "1.0.0",
+  "description": "Project to learn JS",
+  "main": "app.js",
+  "devDependencies": {
+    "eslint": "^9.18.0",
+    "eslint-config-prettier": "^10.0.1",
+    "prettier": "3.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarrynWells/NodeJS_Experience.git"
+  },
+  "author": "DarrynW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarrynWells/NodeJS_Experience/issues"
+  },
+  "homepage": "https://github.com/DarrynWells/NodeJS_Experience#readme"
+}
